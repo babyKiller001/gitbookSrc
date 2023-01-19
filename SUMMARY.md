@@ -19,6 +19,6 @@
         * [矩阵推导](cg/tinyrenderer/matrix/matrix.md)
             * [变换矩阵model](cg/tinyrenderer/matrix/model.md)
     * [旋转](cg/rotation.md)
-        * [Oritentation](cg/rotation.md)
+        * [Oritentation](cg/oritentation.md)
         * [欧拉角](cg/eulerangle.md)
         * [四元数](cg/quaternions.md)
