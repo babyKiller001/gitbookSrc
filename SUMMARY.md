@@ -13,5 +13,9 @@
 
 * [gitbook搭建](gitbookBuild.md)
 
-* [个人小项目:tinyrenderer](tinyrenderer/README.md)
-    * [矩阵推导](tinyrenderer/matrix.md)
+
+* [图形学](cg/cg.md)
+    * [个人小项目:tinyrenderer](cg/tinyrenderer/README.md)
+        * [矩阵推导](cg/tinyrenderer/matrix/matrix.md)
+            * [变换矩阵model](cg/tinyrenderer/matrix/model.md)
+    * [旋转](cg/rotation.md)
